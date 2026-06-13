@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.turkcell.lyraapp.ui.auth.register.RegisterViewModel
